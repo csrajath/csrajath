@@ -18,7 +18,6 @@ Databases:
 Cloud Environments:
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-black?style=flat-square&logo=microsoft-azure)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 
 Other Tools:
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-181717?style=flat-square&logo=tensorflow)
@@ -28,5 +27,4 @@ Other Tools:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![jupyter](https://img.shields.io/badge/-JupyterNotebooks-181717?style=flat-square&logo=jupyter)
 ![colab](https://img.shields.io/badge/-Colab-181717?style=flat-square&logo=google)
-![mapreduce](https://img.shields.io/badge/-Mapreduce-181717?style=flat-square&logo=mapReduce)
 ![spark](https://img.shields.io/badge/-Apache%20Spark-181717?style=flat-square&logo=apache-spark)
