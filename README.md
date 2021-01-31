@@ -1,14 +1,8 @@
 ### Hi there 👋 I am Rajath C S. Working with data gives me pure joy.
 
 
-<!--
-**csrajath/csrajath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 ## 🛠️ Tools and Technologies
-Operating Systems:
-![Windows](https://img.shields.io/badge/-windows-black?style=flat-square&logo=windows)
-![Centos](https://img.shields.io/badge/-centos-black?style=flat-square&logo=centos)
-![Ubuntu](https://img.shields.io/badge/-ubuntu-black?style=flat-square&logo=ubuntu)
-![Macos](https://img.shields.io/badge/-MacOS-black?style=flat-square&logo=apple)
 
 Programming Languages:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
