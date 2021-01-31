@@ -1,4 +1,4 @@
-### Hi there 👋 I am Rajath C S. Working with data gives me pure joy.
+### Hi, I am Rajath C S. Working with data gives me pure joy.
 
 
 
