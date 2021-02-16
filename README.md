@@ -6,6 +6,11 @@
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you here !</b> :blush:</em>
 
+
+<!-- Your badges -->
+[![Linkedin](https://img.shields.io/badge/-Rajath-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajathcs/)
+[![Gmail](https://img.shields.io/badge/-Rajath-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rajathcs.1996@gmail.com)
+
 ## 🛠️ Tools and Technologies
 
 Programming Languages:
@@ -32,12 +37,6 @@ Other Tools:
 ![jupyter](https://img.shields.io/badge/-JupyterNotebooks-181717?style=flat-square&logo=jupyter)
 ![colab](https://img.shields.io/badge/-Colab-181717?style=flat-square&logo=google)
 ![spark](https://img.shields.io/badge/-Apache%20Spark-181717?style=flat-square&logo=apache-spark)
-
-
-
-<!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-Rajath-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajathcs/)
-[![Gmail](https://img.shields.io/badge/-Rajath-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rajathcs.1996@gmail.com)
 
 ### 💼  Things that I'm currently working on: 
 * Building a Chatbot for Educational Institutes to address all types of student questions.
