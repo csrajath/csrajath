@@ -1,4 +1,6 @@
 ### Hi, I am Rajath C S. 
+<!--Introduction -->
+**I am a Computer Science Student**,trying to make this world a **better place** :earth_asia: through all the tools and technologies learnt through my journey. Working with data gives me pure joy. 
 
 
 
