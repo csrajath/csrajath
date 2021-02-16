@@ -3,6 +3,8 @@
 **I am a Computer Science Student**,trying to make this world a **better place** :earth_asia: through all the tools and technologies learnt through my journey. Working with data gives me pure joy. 
 
 
+<br>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you here !</b> :blush:</em>
 
 ## 🛠️ Tools and Technologies
 
@@ -32,12 +34,6 @@ Other Tools:
 ![spark](https://img.shields.io/badge/-Apache%20Spark-181717?style=flat-square&logo=apache-spark)
 
 
-
-<!-- Greeting -->
-
-
-<br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you here !</b> :blush:</em>
 
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-Rajath-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajathcs/)
