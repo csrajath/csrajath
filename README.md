@@ -2,11 +2,7 @@
 <!--Introduction -->
 **I am a Computer Science Student**,trying to make this world a **better place** :earth_asia: through all the tools and technologies learnt through my journey. Working with data gives me pure joy. 
 <br>
-<em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you here !</b> :blush:</em>
-
-
-<!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-Rajath-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajathcs/)
+<em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you here !</b> :blush:</em> [![Linkedin](https://img.shields.io/badge/-Rajath-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajathcs/)
 [![Gmail](https://img.shields.io/badge/-Rajath-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rajathcs.1996@gmail.com)
 
 ## 🛠️ Tools and Technologies
